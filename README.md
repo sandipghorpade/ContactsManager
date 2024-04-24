@@ -46,7 +46,7 @@ This application utilizes the following third-party libraries and packages:
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+Contributions are welcome! Please follow the contributing guidelines when submitting pull requests.
 
 ## License
 
